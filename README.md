@@ -41,13 +41,3 @@
 </div>
 
 ###
-
-<img align="right" height="150" src=""  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/aabxtract/aabxtract/output/snake.svg" alt="Snake animation" />
-
-###
