@@ -6,7 +6,7 @@
 I am driven to build scalable, deterministic systems that solve operational friction. My work centers on abstracting complex technical overhead into high-utility interfaces—specifically, bridging the gaps between cloud infrastructure, decentralized networks, blockchain, and everyday messaging layers to solve local financial and logistics bottlenecks.
 
 
-- 🔭 I'm currently working on **A WhatsApp sales assistant agent for business in the informal market of Nigeria <a href="https://github.com/aabxtract/hustaq">check</a>**
+- 🔭 I'm currently working on **a x402 protocol that transaform any ordinary link to an x402 link on hedera bloackchain <a href="https://github.com/aabxtract/kite402">check</a>**
 
 - 🌱 I'm currently learning **Python and OOP with C++**
 
